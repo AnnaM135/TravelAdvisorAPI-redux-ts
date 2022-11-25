@@ -2481,7 +2481,7 @@
   dependencies:
     "@typescript-eslint/utils" "5.44.0"
 
-"@typescript-eslint/parser@^5.5.0":
+"@typescript-eslint/parser@^5.44.0", "@typescript-eslint/parser@^5.5.0":
   "integrity" "sha512-H7LCqbZnKqkkgQHaKLGC6KUjt3pjJDx8ETDqmwncyb6PuoigYajyAwBGz08VU/l86dZWZgI4zm5k2VaKqayYyA=="
   "resolved" "https://registry.npmjs.org/@typescript-eslint/parser/-/parser-5.44.0.tgz"
   "version" "5.44.0"
